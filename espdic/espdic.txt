@@ -11760,7 +11760,7 @@ cviterjono : zwitterion
 ĉizilo : chisel, graving tool, chiseling tool
 ĉizojo : clippers, nippers, shears
 ĉjio : qì (Chinese life force)
-ĉjo-knabino : tomboy, masculine lesbian, butch girl, boy dyke, butch woman
+ĉjo-knabino : tomboy, masculine lesbian
 ĉo : name of the letter Ĉ
 ĉokolada : chocolate
 ĉokoladbriketo : bar of chocolate
@@ -24240,7 +24240,7 @@ homonimigode operacisimboloj : polymorphism
 homonimo : homonym
 homoseksuala : gay, homosexual, queer
 homoseksualeco : homosexuality
-homoseksualulo : faggot, homosexual, queen, queer
+homoseksualulo : homosexual
 homotetia : homothetic
 homotetiaĵo : homothetic figure
 homotetio : homothety
